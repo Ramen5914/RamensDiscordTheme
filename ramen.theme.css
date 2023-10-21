@@ -1,0 +1,29 @@
+/**
+ * @name Horizontal Server List
+ * @author Gibbu#1211
+ * @version 2.1.0
+ * @description Moves the server list from the left to the top of Discord.
+ * @source https://github.com/DiscordStyles/HorizontalServerList
+ * @invite ZHthyCw
+ * @website https://gibbu.me
+*/
+
+:root {
+    --background-tertiary: #333333
+}
+
+.guilds-2JjMmN,
+.listItem-3SmSlK {
+  width: 50px;
+}
+
+.wrapper-2PSQCG,
+.svg-2ifYOU {
+  width: 33px;
+  height: 33px;
+}
+
+.expandedFolderBackground-1kSAf6 {
+  left: 8px;
+  width: 33px;
+}
